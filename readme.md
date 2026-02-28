@@ -138,6 +138,7 @@ This can also be a dedicated section of your README.md files.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 - [Badges](https://badges-jet.vercel.app/) - A serverless API and UI tool to create animated, auto-wrapping GitHub repository preview cards with custom logo and QR code support.
+- [Badges](https://badges-jet.vercel.app/) - A serverless API and UI tool to create animated, auto-wrapping GitHub repository preview cards with custom logo and QR code support.
 - [GPRM](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
